@@ -41,7 +41,7 @@ define('K_PATH_TCEXAM', '/');
 /**
  * Real full path where this program is installed (e.g: "/var/www/html/TCExam/").
  */
-define('K_PATH_MAIN', 'C:\wamp\www\tcexam-develop');
+define('K_PATH_MAIN', '/app/');
 
 /**
  * Constant used on TCPDF library.
