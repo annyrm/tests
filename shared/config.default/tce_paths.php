@@ -31,17 +31,17 @@
 /**
  * Host URL (e.g.: "http://www.yoursite.com").
  */
-define('K_PATH_HOST', 'http://clinicatests.herokuapp.com');
+define('K_PATH_HOST', '');
 
 /**
  * Relative URL where this program is installed (e.g.: "/").
  */
-define('K_PATH_TCEXAM', '/');
+define('K_PATH_TCEXAM', '');
 
 /**
  * Real full path where this program is installed (e.g: "/var/www/html/TCExam/").
  */
-define('K_PATH_MAIN', '/app/');
+define('K_PATH_MAIN', '');
 
 /**
  * Constant used on TCPDF library.
