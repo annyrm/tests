@@ -31,17 +31,29 @@
 /**
  * Host URL (e.g.: "http://www.yoursite.com").
  */
+<<<<<<< HEAD
 define('K_PATH_HOST', 'http://clinicatests.herokuapp.com');
+=======
+define('K_PATH_HOST', '');
+>>>>>>> e8efc462ec36a2f1402dc140a557cbd1b33c707f
 
 /**
  * Relative URL where this program is installed (e.g.: "/").
  */
+<<<<<<< HEAD
 define('K_PATH_TCEXAM', '/');
+=======
+define('K_PATH_TCEXAM', '');
+>>>>>>> e8efc462ec36a2f1402dc140a557cbd1b33c707f
 
 /**
  * Real full path where this program is installed (e.g: "/var/www/html/TCExam/").
  */
+<<<<<<< HEAD
 define('K_PATH_MAIN', '/app/');
+=======
+define('K_PATH_MAIN', '');
+>>>>>>> e8efc462ec36a2f1402dc140a557cbd1b33c707f
 
 /**
  * Constant used on TCPDF library.
@@ -136,4 +148,8 @@ if ((!isset($_SERVER['DOCUMENT_ROOT'])) or (empty($_SERVER['DOCUMENT_ROOT']))) {
 
 //============================================================+
 // END OF FILE
+<<<<<<< HEAD
 //============================================================+
+=======
+//============================================================+
+>>>>>>> e8efc462ec36a2f1402dc140a557cbd1b33c707f

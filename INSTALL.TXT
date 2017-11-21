@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 TCExam - INSTALL
 ============================================================
 
@@ -8,3 +9,15 @@ For further information check the documentation on the
 official TCExam website: https://tcexam.org
 
 ============================================================
+=======
+TCExam - INSTALL
+============================================================
+
+For quick installation instruction check:
+	install/index.htm
+
+For further information check the documentation on the 
+official TCExam website: https://tcexam.org
+
+============================================================
+>>>>>>> e8efc462ec36a2f1402dc140a557cbd1b33c707f

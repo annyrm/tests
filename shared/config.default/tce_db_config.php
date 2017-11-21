@@ -30,12 +30,20 @@
 /**
  * database type (MYSQL, POSTGRESQL, ORACLE)
  */
+<<<<<<< HEAD
 define('K_DATABASE_TYPE', 'POSTGRESQL');
+=======
+define('K_DATABASE_TYPE', '');
+>>>>>>> e8efc462ec36a2f1402dc140a557cbd1b33c707f
 
 /**
  * database Host name (eg: localhost)
  */
+<<<<<<< HEAD
 define('K_DATABASE_HOST', 'ec2-54-163-255-181.compute-1.amazonaws.com');
+=======
+define('K_DATABASE_HOST', '');
+>>>>>>> e8efc462ec36a2f1402dc140a557cbd1b33c707f
 
 /**
  * database port (eg: 3306, 5432, 1521)
@@ -44,22 +52,38 @@ define('K_DATABASE_HOST', 'ec2-54-163-255-181.compute-1.amazonaws.com');
  * mysqli.default_socket PHP value. For example, in Apache:
  * php_value mysqli.default_socket "/path/to/mysql.sock"
  */
+<<<<<<< HEAD
 define('K_DATABASE_PORT', '5432');
+=======
+define('K_DATABASE_PORT', '');
+>>>>>>> e8efc462ec36a2f1402dc140a557cbd1b33c707f
 
 /**
  * database name (TCExam)
  */
+<<<<<<< HEAD
 define('K_DATABASE_NAME', 'dbhr3op9ak01cf');
+=======
+define('K_DATABASE_NAME', '');
+>>>>>>> e8efc462ec36a2f1402dc140a557cbd1b33c707f
 
 /**
  * database user name
  */
+<<<<<<< HEAD
 define('K_DATABASE_USER_NAME', 'tbfdhqwykpxedk');
+=======
+define('K_DATABASE_USER_NAME', '');
+>>>>>>> e8efc462ec36a2f1402dc140a557cbd1b33c707f
 
 /**
  * database user password
  */
+<<<<<<< HEAD
 define('K_DATABASE_USER_PASSWORD', '8610507226a5c4679033bf056968e88eb3d1e5eb73f5532d782a8dd4dfe0bbbc');
+=======
+define('K_DATABASE_USER_PASSWORD', '');
+>>>>>>> e8efc462ec36a2f1402dc140a557cbd1b33c707f
 
 /**
  * prefix for database tables names
@@ -162,4 +186,8 @@ define('K_TABLE_TEST_SSLCERTS', K_TABLE_PREFIX.'testsslcerts');
 
 //============================================================+
 // END OF FILE
+<<<<<<< HEAD
 //============================================================+
+=======
+//============================================================+
+>>>>>>> e8efc462ec36a2f1402dc140a557cbd1b33c707f
